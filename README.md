@@ -101,4 +101,4 @@ This Java-based Quiz Application, featuring a Swing-based user interface, offers
 		}
 		
 		displayAnswer();
-}
+	}
