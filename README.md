@@ -1,5 +1,7 @@
 # Java Swing Quiz Application
 
+![image.info](quiz-ui-snapshot.png)
+
 ## Overview
 
 This Java-based Quiz Application, featuring a Swing-based user interface, offers an interactive quiz experience. Users can answer a series of questions with a 10-second timer for each question. The application provides immediate feedback on answers and displays the correct answer if the user's choice is incorrect. At the end of the quiz, the final score is printed.
